@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/spimTest1.dir/src/spimTest1.c.o  -o spimTest1  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lft4222 

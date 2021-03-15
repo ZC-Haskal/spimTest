@@ -1,0 +1,3 @@
+/home/roma/pro/pro_jiang/src/spimTest/spimTest/build/CMakeFiles/rebuild_cache.dir
+/home/roma/pro/pro_jiang/src/spimTest/spimTest/build/CMakeFiles/spimTest.dir
+/home/roma/pro/pro_jiang/src/spimTest/spimTest/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roma/pro/pro_jiang/src/spimTest/spimTest/src/spimTest1.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+ctype.h
+-
+ftd2xx.h
+/home/roma/pro/pro_jiang/src/spimTest/spimTest/src/ftd2xx.h
+libft4222.h
+/home/roma/pro/pro_jiang/src/spimTest/spimTest/src/libft4222.h
+
+/usr/local/include/WinTypes.h
+pthread.h
+-
+
+/usr/local/include/ftd2xx.h
+windows.h
+-
+WinTypes.h
+/usr/local/include/WinTypes.h
+
+/usr/local/include/libft4222.h
+windows.h
+-
+stdint.h
+-
+ftd2xx.h
+/usr/local/include/ftd2xx.h
+
